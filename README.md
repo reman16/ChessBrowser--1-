@@ -1,1 +1,1 @@
-I better get an internship off this project
+Chess Browser by Ethan Cobler and Reman Adhikari
