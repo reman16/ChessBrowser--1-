@@ -1,5 +1,5 @@
 public class ChessGame{
-    public string EventName;
+    public string EventName{ get; set; }
     public string site;
     public string Round;
     public string WhitePlayer;
