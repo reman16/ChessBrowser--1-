@@ -267,7 +267,6 @@ namespace ChessBrowser.Components.Pages
       }
 
         }
-
        
         catch (Exception e)
         {
