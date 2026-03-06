@@ -9,6 +9,4 @@ public class ChessGame{
     public string EventDate{ get; set; }
     public char Result{ get; set; }
     public string moves{ get; set; }
-
-
 }
